@@ -1,10 +1,11 @@
 #getFaded p {
     color: white;
     /* margin-top: 25px; */
-    bottom: 15px;
+    position: absolute;
+    right: 10px;
+    bottom: 0px;
     font-size: 30px;
     text-align: right;
-    position: relative;
     animation: fadein 5s;
     -moz-animation: fadein 5s; /* Firefox */
     -webkit-animation: fadein 5s; /* Safari and Chrome */
