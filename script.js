@@ -4,5 +4,5 @@ $('body').terminal({
                   '. Wellcome to this terminal.');
     }
 }, {
-    greetings: 'My First Terminal'
+    greetings: 'Welcome to my site'
 });
