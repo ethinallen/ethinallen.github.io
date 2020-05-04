@@ -5,12 +5,12 @@ h1 {
   color: white;
 }
 
-h1:after {
+/* h1:after {
   content: '|';
   opacity: 0;
   display: inline-block;
   animation: blink 1s linear infinite alternate;
-}
+} */
 
 @keyframes blink {
   50% {
